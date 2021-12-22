@@ -1,0 +1,11 @@
+prefix=/scratch/jenkins/workspace/tpp-freedom-tools/tpp03--build-binary-packages--parameterized/obj/x86_64-w64-mingw32/install/riscv-openocd-0.10.0-2020.11.0-x86_64-w64-mingw32
+exec_prefix=/scratch/jenkins/workspace/tpp-freedom-tools/tpp03--build-binary-packages--parameterized/obj/x86_64-w64-mingw32/install/riscv-openocd-0.10.0-2020.11.0-x86_64-w64-mingw32/bin
+libdir=/scratch/jenkins/workspace/tpp-freedom-tools/tpp03--build-binary-packages--parameterized/obj/x86_64-w64-mingw32/install/riscv-openocd-0.10.0-2020.11.0-x86_64-w64-mingw32/bin
+includedir=/scratch/jenkins/workspace/tpp-freedom-tools/tpp03--build-binary-packages--parameterized/obj/x86_64-w64-mingw32/install/riscv-openocd-0.10.0-2020.11.0-x86_64-w64-mingw32/include/libftdi1
+
+Name: libftdi1
+Description: Library to program and control the FTDI USB controller
+Requires: libusb-1.0
+Version: 1.4
+Libs: -L${libdir} -lftdi1
+Cflags: -I${includedir}

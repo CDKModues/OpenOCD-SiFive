@@ -1,0 +1,95 @@
+commit 97c93cebad1affc0586b61541ae74b0dca0a1f30
+Author: Kevin Mills <kevin.mills@sifive.com>
+Date:   Tue Nov 3 13:34:18 2020 -0800
+
+    bump version id for November release
+
+commit 20203a9425b99454fb3d37e76094a47ace9735e5
+Author: Kevin Mills <kevin.mills@sifive.com>
+Date:   Thu Oct 22 12:21:46 2020 -0700
+
+    checkpatch merged
+
+commit 41bf33e4cf6ef4c5518691996280fc37155fbd6e
+Author: Kevin Mills <kevin.mills@sifive.com>
+Date:   Thu Oct 22 12:16:23 2020 -0700
+
+    checkpatch
+
+commit f7781d4d6ea2a694d9add5d8d86398a67855dd06
+Author: Kevin Mills <kevin.mills@sifive.com>
+Date:   Thu Oct 22 11:14:07 2020 -0700
+
+    checkpatch
+
+commit c38ab2ed94d1806692b642b57be0f49f999f4c5a
+Author: Kevin Mills <kevin.mills@sifive.com>
+Date:   Wed Oct 21 12:26:26 2020 -0700
+
+    pc-sampling
+
+commit f7d4561507043eb0857c06b2c78f5285beb9b15c
+Author: Kevin Mills <kevin.mills@sifive.com>
+Date:   Mon Oct 19 12:02:49 2020 -0700
+
+    update
+
+commit 4b3e94d425809adde32a548a3cdb76458ceb0e8f
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Tue Oct 6 14:36:17 2020 -0700
+
+    Fixing windows packaging
+
+commit b02f2575041a3ea73c41b43263e46ed1944ad634
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Mon Oct 5 11:47:50 2020 -0700
+
+    Using openocd commit from latest FT build
+
+commit bc05eceedd893cb325fb2aef23d5ae01438d63d6
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Mon Oct 5 11:26:32 2020 -0700
+
+    Updating build scripts to check for used dyn libs
+
+commit 3eed7aa9a2bc9f7eba5aed8a57e31011920a5038
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Mon Oct 5 11:03:19 2020 -0700
+
+    Bumped to latest openocd submodule
+
+commit 563b31f629fd79c3e5dde689be6e731a60adb308
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Tue Jun 16 10:14:27 2020 -0700
+
+    Adding flush Makefile target
+
+commit 27cdc3ced3e179da9cce8293ff39cfd7b1afa895
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Sun Jun 14 22:04:44 2020 -0700
+
+    Adding regress make target
+
+commit 2d443c07e26607c00fee8dab63f06b1a51de1fdd
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Thu Jun 4 22:05:38 2020 -0700
+
+    Second real commit
+
+commit becf4f4cad5aa936e92c95a938531679913d9da4
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Tue May 26 18:01:08 2020 -0700
+
+    Fixing some search and replace misses
+
+commit 9276de869125c509a34795c2be5daf971f9c35e1
+Author: cgsfv <cgsfv@users.noreply.github.com>
+Date:   Tue May 26 15:30:24 2020 -0700
+
+    First real commit
+
+commit 1969aba159dc20988e151c399ed7986ccad70c21
+Author: Carsten Gosvig <40368726+cgsfv@users.noreply.github.com>
+Date:   Sun May 24 14:13:06 2020 -0700
+
+    Initial commit
